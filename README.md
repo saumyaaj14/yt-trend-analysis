@@ -1,6 +1,6 @@
 # 📉 Reddit Storytime YouTube Trend Analysis
 
-> A data analytics project examining the rise, saturation, and decline of Reddit storytime content on YouTube — using the YouTube Data API, NLP sentiment analysis, and time-series forecasting.
+> A data analytics project examining the rise, saturation, and decline of Reddit storytime content on YouTube using the YouTube Data API, NLP sentiment analysis, and time-series forecasting.
 
 **Built by:** [Saumya Joshi]  
 **Role:** Product Manager  
@@ -10,16 +10,16 @@
 
 ## 🧠 Project Overview
 
-Reddit storytime channels — where creators read r/AmITheAsshole, r/AmIOverreacting, and similar posts — became one of YouTube's fastest-growing content formats between 2020 and 2022. But since 2023, a visible pattern emerged: audiences calling out creators for fake stories, AI-generated voices, and chasing views over authenticity.
+Reddit storytime channels, where creators read r/AITA, r/AmIOverreacting, and similar posts have become one of YouTube's fastest-growing content formats between 2020 and 2022. But since 2023, a visible pattern emerged: audiences calling out creators for fake stories, AI-generated voices, and chasing views over authenticity.
 
-**This project asks: Can we measure and predict that decline using real data?**
+**This project: Can we measure and predict that decline using real data?**
 
 ### Key Findings
 - Average views per video peaked at ~950,000 in 2023Q1 and fell 61% to ~370,000 by 2026Q2
-- The format is stabilizing, not dying — ARIMA forecast projects ~400K views through 2027
+- The format is stabilizing, not dying - ARIMA forecast projects ~400K views through 2027
 - Fake/Scripted is the dominant and growing backlash signal, overtaking Out of Touch after 2020
-- Backlash predicts view decline for smaller channels but not larger ones — controversy drives clicks for established creators
-- Upload volume does not prevent decline — channels posting 400 videos/quarter declined at the same rate as low-frequency channels
+- Backlash predicts view decline for smaller channels but not larger ones - controversy drives clicks for established creators
+- Upload volume does not prevent decline - channels posting 400 videos/quarter declined at the same rate as low-frequency channels
 
 ---
 
@@ -109,11 +109,11 @@ reddit-storytime-analysis/
 
 ## ⚠️ Limitations & Honest Caveats
 
-- YouTube API returns top comments only — not a random sample
+- YouTube API returns top comments only —> not a random sample
 - Keyword matching misses sarcasm and nuance
 - View counts captured at a single point in time
 - Some channels have limited data points making individual forecasts unreliable
-- Forecast confidence intervals are wide — treat projections as directional
+- Forecast confidence intervals are wide —> treat projections as directional
 
 ---
 
