@@ -1,0 +1,49 @@
+Channel,Lag (Quarters),Pearson r,p-value,Significant
+ r/mr redder,1,0.473,0.009,Yes
+ r/mr redder,2,0.513,0.005,Yes
+ r/mr redder,3,0.464,0.015,Yes
+Charlotte Dobre,1,0.668,0.0,Yes
+Charlotte Dobre,2,0.605,0.0,Yes
+Charlotte Dobre,3,0.609,0.0,Yes
+Comfort Level Podcast,1,-0.098,0.717,No
+Comfort Level Podcast,2,-0.389,0.152,No
+Comfort Level Podcast,3,-0.58,0.03,Yes
+Dusty Thunder,1,0.541,0.037,Yes
+Dusty Thunder,2,0.536,0.048,Yes
+Dusty Thunder,3,-0.096,0.755,No
+Karma Stories,1,0.077,0.69,No
+Karma Stories,2,0.106,0.591,No
+Karma Stories,3,-0.153,0.447,No
+Mark Narrations,1,-0.091,0.637,No
+Mark Narrations,2,-0.098,0.618,No
+Mark Narrations,3,-0.215,0.281,No
+Markee,1,0.192,0.328,No
+Markee,2,0.254,0.201,No
+Markee,3,0.619,0.001,Yes
+Reddit On Wiki,1,0.208,0.393,No
+Reddit On Wiki,2,0.177,0.481,No
+Reddit On Wiki,3,0.418,0.095,No
+Rufus Read it,1,0.343,0.275,No
+Rufus Read it,2,0.418,0.201,No
+Rufus Read it,3,0.524,0.12,No
+Sarby,1,0.34,0.234,No
+Sarby,2,0.236,0.438,No
+Sarby,3,0.186,0.563,No
+Sir Read It,1,-0.324,0.238,No
+Sir Read It,2,-0.464,0.095,No
+Sir Read It,3,-0.399,0.177,No
+Smosh Pit,1,0.089,0.771,No
+Smosh Pit,2,0.171,0.594,No
+Smosh Pit,3,0.124,0.716,No
+The Judgies Podcast,1,0.179,0.403,No
+The Judgies Podcast,2,0.105,0.633,No
+The Judgies Podcast,3,-0.262,0.239,No
+Two Hot Takes,1,0.06,0.797,No
+Two Hot Takes,2,-0.206,0.383,No
+Two Hot Takes,3,0.159,0.514,No
+ok storytime,1,0.322,0.179,No
+ok storytime,2,0.322,0.192,No
+ok storytime,3,0.069,0.791,No
+rSteven,1,-0.044,0.82,No
+rSteven,2,-0.173,0.379,No
+rSteven,3,-0.048,0.814,No
