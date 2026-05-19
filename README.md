@@ -127,26 +127,5 @@ cp .env.example .env  # Add your YouTube API key
 python3 fetch_channels.py
 ```
 
----
-
-## 📬 LinkedIn Post Template
-
-> I just completed a data analytics project that started with a hunch.
->
-> I noticed YouTube's Reddit storytime channels were getting called out more and more. Audiences frustrated. Creators desperate. Views dropping.
->
-> So I decided to measure it.
->
-> Using the YouTube Data API, Python, and NLP sentiment analysis, I tracked view trends and comment sentiment across 16 channels over 7 years and 140,000 comments.
->
-> Key finding: average views peaked at ~950K in early 2023 and fell 61% by 2026. The format didn't die — it corrected.
->
-> As a PM, this mirrors how I think about product health. Lagging metrics (views) tell you what happened. Leading indicators (sentiment) tell you what's coming. The window to act was 2022 — most creators missed it.
->
-> Full analysis on GitHub: [link]
->
-> #ProductManagement #DataAnalytics #Python #NLP #YouTube #PortfolioProject
-
----
 
 *Built by [Saumya Joshi] — Product Manager*
