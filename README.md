@@ -71,9 +71,9 @@ Reddit storytime channels — where creators read r/AmITheAsshole, r/AmIOverreac
 | scipy | Statistical correlation analysis |
 | GitHub | Version control + portfolio |
 
----
 
 ## 📁 Project Structure
+`````
 reddit-storytime-analysis/
 │
 ├── data/
@@ -100,12 +100,12 @@ reddit-storytime-analysis/
 ├── outputs/
 │   └── charts/               # 11 charts
 │
-├── .env                      # API key — never committed
+├── .env                      # Environment variables
 ├── .gitignore
 ├── requirements.txt
 └── README.md
 
----
+````
 
 ## ⚠️ Limitations & Honest Caveats
 
